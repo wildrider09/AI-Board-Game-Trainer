@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1528791193 source:e:\study\mchine leaning\c codes\connect4montecarloarcomp1\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1528791193 source:f:\study\study material\mchine leaning\c codes\connect4montecarloarcomp1\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1528791194 source:d:\dit\artificial intelligence\connect4montecarloarcomp1\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
+1528791194 source:d:\dit\artificial intelligence\codes\connect4montecarloarcomp1\main.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
